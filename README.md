@@ -7,7 +7,7 @@ Every stock market investor knows the pain of stock fluctuation, since predictin
 
 ## Apple stock price prediction
 
-<img src = "Apple Decision Tree.PNG" width = "575" height = "500">
+<img src = "Apple Decision Tree.PNG" width = "600" height = "360">
 
 <img src = "Apple Random Forest.png" width = "575" height = "500">
 
