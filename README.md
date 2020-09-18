@@ -15,6 +15,8 @@ MEA for best max_leaf_nodes: 10.490951367026877
 <img src = "image/Apple Random Forest.png" width = "600" height = "360">
 MAE for Random Forest Model: 10.508806363636364
 
+Decision Tree and Random Forest can make solid predictions. However, they cannot predict the stock prices in validating dataset that are higher than the maximun stock price in training dataset.
+
 ### k-nearest Neighbor
 <img src = "image/Apple K-nearest neighbor.png" width = "600" height = "360">
 MAE for k-nearest Neighbor Model: 42.37149350649351
