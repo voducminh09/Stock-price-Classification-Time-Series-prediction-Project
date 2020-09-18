@@ -17,9 +17,11 @@ MAE for Random Forest Model: 10.508806363636364
 
 Decision Tree and Random Forest can make solid predictions. However, they cannot predict the stock prices in validating dataset that are higher than the maximun stock price in training dataset.
 
-### k-nearest Neighbor
+### k-nearest Neighbors
 <img src = "image/Apple K-nearest neighbor.png" width = "600" height = "360">
 MAE for k-nearest Neighbor Model: 42.37149350649351
+
+k-nearest neighbors predict the fluctuation well. But it detects a falling partern and then predict the valiadation data with huge Mean Absolute Error, so it does not work really well with this dataset.
 
 ### Prophet
 <img src = "image/Apple Prophet.png" width = "600" height = "360">
@@ -39,9 +41,13 @@ MEA for best max_leaf_nodes:212.06950820547277
 <img src = "image/Dow Random Forest.png" width = "600" height = "360">
 MAE for Random Forest Model: 189.0973996753243
 
-### k-nearest Neighbor
+So, with stock (or index) prices where validation prices are not higher than the maximum price in training dataset, Decision Tree and Random Forest prediction is really powerful!
+
+### k-nearest Neighbors
 <img src = "image/Dow K-nearest neighbor.png" width = "600" height = "360">
 MAE for k-nearest Neighbor Model: 1203.5057244155848
+
+k-nearest neighbors fits Dow Jones dataset much more than Apple dataset.
 
 ### Prophet
 <img src = "image/Dow Prophet.png" width = "600" height = "360">
@@ -50,3 +56,5 @@ MAE for Prophet Neighbor Model: 4222.767106506855
 ### ARIMA
 <img src = "image/Dow ARIMA.png" width = "600" height = "360">
 MAE for ARIMA Model: 3258.3506585789373
+
+However, as mentioned in the beginning, keep in mind that stock (or index) prices are affected by news about the market or the company and by the company's fundamentals, so there are still a lot of possible factors that are not accounted for in this model.
