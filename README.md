@@ -13,14 +13,14 @@ Every stock market investor knows the pain of stock fluctuation, since predictin
 
 ### Random Forest
 
-<img src = "Apple Random Forest.png" width = "600" height = "360">
+<img src = "image/Apple Random Forest.png" width = "600" height = "360">
 
 ## Dow Jones index price prediction
 
 ### Decision Tree
 
-<img src = "Dow Decision Tree.png" width = "600" height = "360">
+<img src = "image/Dow Decision Tree.png" width = "600" height = "360">
 
 ### Random Forest
 
-<img src = "Dow Random Forest.png" width = "600" height = "360">
+<img src = "image/Dow Random Forest.png" width = "600" height = "360">
