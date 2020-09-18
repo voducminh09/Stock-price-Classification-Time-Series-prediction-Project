@@ -8,43 +8,43 @@ Every stock market investor knows the pain of stock fluctuation, since predictin
 ## Apple stock price prediction
 
 ### Decision Tree
-MEA for best max_leaf_nodes: 10.490951367026877
 <img src = "image/Apple Decision Tree.PNG" width = "600" height = "360">
+MEA for best max_leaf_nodes: 10.490951367026877
 
 ### Random Forest
-MAE for Random Forest Model: 10.508806363636364
 <img src = "image/Apple Random Forest.png" width = "600" height = "360">
+MAE for Random Forest Model: 10.508806363636364
 
 ### k-nearest Neighbor
-MAE for k-nearest Neighbor Model: 42.37149350649351
 <img src = "image/Apple K-nearest neighbor.png" width = "600" height = "360">
+MAE for k-nearest Neighbor Model: 42.37149350649351
 
 ### Prophet
-MAE for Prophet Neighbor Model
 <img src = "image/Apple Prophet.png" width = "600" height = "360">
+MAE for Prophet Neighbor Model: 13.589607214894048
 
 ### ARIMA
-MAE for ARIMA Model: 11.078197046913763
 <img src = "image/Apple ARIMA.png" width = "600" height = "360">
+MAE for ARIMA Model: 11.078197046913763
 
 ## Dow Jones index price prediction
 
 ### Decision Tree
-MEA for best max_leaf_nodes:212.06950820547277
 <img src = "image/Dow Decision Tree.png" width = "600" height = "360">
+MEA for best max_leaf_nodes:212.06950820547277
 
 ### Random Forest
-MAE for Random Forest Model: 189.0973996753243
 <img src = "image/Dow Random Forest.png" width = "600" height = "360">
+MAE for Random Forest Model: 189.0973996753243
 
 ### k-nearest Neighbor
-MAE for k-nearest Neighbor Model: 1203.5057244155848
 <img src = "image/Dow K-nearest neighbor.png" width = "600" height = "360">
+MAE for k-nearest Neighbor Model: 1203.5057244155848
 
 ### Prophet
-MAE for Prophet Neighbor Model: 4222.767106506855
 <img src = "image/Dow Prophet.png" width = "600" height = "360">
+MAE for Prophet Neighbor Model: 4222.767106506855
 
 ### ARIMA
-MAE for ARIMA Model: 3258.3506585789373
 <img src = "image/Dow ARIMA.png" width = "600" height = "360">
+MAE for ARIMA Model: 3258.3506585789373
