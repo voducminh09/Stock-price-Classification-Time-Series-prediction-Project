@@ -9,7 +9,7 @@ Every stock market investor knows the pain of stock fluctuation, since predictin
 
 ### Decision Tree
 
-<img src = "Apple Decision Tree.PNG" width = "600" height = "360">
+<img src = "Apple Decision Tree.PN" width = "600" height = "360">
 
 ### Random Forest
 
